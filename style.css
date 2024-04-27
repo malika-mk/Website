@@ -40,5 +40,16 @@ h6{
 }
 
 .navbar{
-    
+    font-size: 16px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    padding: 0 20px;
+    color: rgb(60, 67, 205);
+    transition: 0.3 ease;
+}
+
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link.active{
+    color: rgb(255, 211, 80);
 }
