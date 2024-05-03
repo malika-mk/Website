@@ -346,3 +346,15 @@ footer .copyright a:hover{
 #blog-container .post:hover h3{
     color: #fb774b;
 }
+
+/* Cart */
+
+#cart-container table{
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+#cart-container table thead{
+    f
+}
